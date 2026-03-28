@@ -51,7 +51,7 @@ export default function Home() {
           <h1>
             아이디어를
             <br />
-            매력적인 웹 경험으로 만드는
+            안녕
             <br />
             프론트엔드 개발자
           </h1>
